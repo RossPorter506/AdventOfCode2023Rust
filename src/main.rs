@@ -3,7 +3,8 @@
 
 mod day1; 
 mod day2;
-mod day3; use day3 as day;
+mod day3;
+mod day4; use day4 as day;
 mod prelude; use prelude::*;
 
 /**/
