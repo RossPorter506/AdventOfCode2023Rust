@@ -1,5 +1,4 @@
 #![allow(dead_code)]
-#![feature(iter_map_windows)]
 
 mod day1; 
 mod day2;
@@ -13,7 +12,8 @@ mod day9;
 mod day10; 
 mod day11; 
 mod day12; 
-mod day13; use day13 as day;
+mod day13;
+mod day14; use day14 as day;
 mod prelude; use prelude::*;
 
 /**/
